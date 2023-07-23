@@ -1,1 +1,1 @@
-the week assignment code is in folder "bruh"
+the week2 assignment code is in folder "bruh"
